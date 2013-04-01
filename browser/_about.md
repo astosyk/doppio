@@ -24,7 +24,7 @@ enough to run the following programs:
 The code has been tested on the latest versions of Chrome, Firefox, Safari,
 Opera, IE 9, IE 10, and Node, but should run in just about any browser.
 
-Check out the [demo!](http://int3.github.com/doppio)
+Check out the [demo!](http://plasma-umass.github.com/doppio)
 
 -------------
 
@@ -167,15 +167,15 @@ Doppio itself is the work of [CJ Carey][cj], [Jez Ng][jez], [John Vilk][jvilk],
 and [Jonny Leahey][jleahey], and is MIT Licensed.
 
 [sys-sem]: http://plasma.cs.umass.edu/emery/grad-systems
-[diff]: https://github.com/int3/doppio/blob/master/test/special/Diff.java
-[lzw]: https://github.com/int3/doppio/blob/master/test/special/Lzw.java
+[diff]: https://github.com/plasma-umass/doppio/blob/master/test/special/Diff.java
+[lzw]: https://github.com/plasma-umass/doppio/blob/master/test/special/Lzw.java
 [coffeescript]: http://coffeescript.org/
 [kawa-scheme]: http://www.gnu.org/software/kawa/
 [rhino]: https://developer.mozilla.org/en-US/docs/Rhino
 [localstorage]: http://www.w3.org/TR/webstorage/#the-localstorage-attribute
 [typed]: http://www.khronos.org/registry/typedarray/specs/latest/
 [long]: http://closure-library.googlecode.com/svn/docs/class_goog_math_Long.html
-[lookup]: https://github.com/int3/doppio/blob/a59ac5dd04157a24ad1ac57f380ad08a47d40b8c/src/util.coffee#L117
+[lookup]: https://github.com/plasma-umass/doppio/blob/a59ac5dd04157a24ad1ac57f380ad08a47d40b8c/src/util.coffee#L117
 [emscripten]: http://dl.acm.org/citation.cfm?id=2048224
 [jq]: http://jquery.com/
 [under]: http://documentcloud.github.com/underscore/

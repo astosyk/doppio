@@ -8,13 +8,13 @@ It began life as a [Mid-term project](http://plasma.cs.umass.edu/emery/grad-syst
 for [CS 691ST, Spring 2012](http://plasma.cs.umass.edu/emery/grad-systems)
 at [UMass Amherst](http://www.cs.umass.edu/).
 
-To try Doppio now, head to the [live demo page](http://int3.github.com/doppio/).
+To try Doppio now, head to the [live demo page](http://plasma-umass.github.com/doppio/).
 
 
 Getting & Building the Code
 ---------------------------
 
-    git clone https://github.com/int3/doppio.git
+    git clone https://github.com/plasma-umass/doppio.git
     cd doppio
     tools/setup.sh
 
